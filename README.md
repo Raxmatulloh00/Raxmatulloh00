@@ -3,9 +3,7 @@
 <h3 align="center">A passionate frontend and mobile developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raxmatulloh00&label=Profile%20views&color=0e75b6&style=flat" alt="raxmatulloh00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxmatulloh00" alt="raxmatulloh00" /></a> </p>
 
 - 🔭 I’m currently working on **Laza**
 
