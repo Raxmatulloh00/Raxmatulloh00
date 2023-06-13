@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Laza**
+- 🔭 I’m currently working on **Laza,Spermarket Managment System**
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Dart, Flutter,Blazor**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raxmatulloh00](https://github.com/Raxmatulloh00)
 
-- 💬 Ask me about **Frontend,Flutter,Dart**
+- 💬 Ask me about **Frontend,Flutter,Dart,C#**
 
 - 📫 How to reach me **raxmatullohx5@gmail.com**
 
